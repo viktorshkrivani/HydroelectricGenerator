@@ -17,15 +17,13 @@ By recreating this principle on a smaller scale, we explored how turbines spin m
   - This induces an electric current, demonstrating how hydro plants generate power.  
 
 ## 📂 Additional Materials  
-To explore the **formulas, detailed calculations, and full project breakdown**, please see: 
+To explore the **formulas, detailed calculations, and full project breakdown**, please  press the links below: 
 ![Presentation](./assets/1.png)
 - 🎥 [Project D Presentation (PDF)](./Project%20D%20%20presentation.pdf) 
 - 📄 [Project D Write-up (PDF)](./Project%20D%20write%20up.pdf)  
  
 
 These documents contain the mathematical details, diagrams, and step-by-step reasoning behind our 
-
-[Presentation)](./Project%20D%20%20presentation.pdf)
 
 ## 📐 Theoretical Basis  
 - **Faraday’s Law of Induction** → explains how changing magnetic flux induces EMF (voltage).  
