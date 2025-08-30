@@ -18,7 +18,7 @@ By recreating this principle on a smaller scale, we explored how turbines spin m
 
 ## 📂 Additional Materials  
 To explore the **formulas, detailed calculations, and full project breakdown**, please see: 
-[Presentation](./assets/1.png)
+![Presentation](./assets/1.png)
 - 🎥 [Project D Presentation (PDF)](./Project%20D%20%20presentation.pdf) 
 - 📄 [Project D Write-up (PDF)](./Project%20D%20write%20up.pdf)  
  
